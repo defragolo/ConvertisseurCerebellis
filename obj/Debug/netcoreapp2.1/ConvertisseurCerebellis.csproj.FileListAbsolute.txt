@@ -9,3 +9,13 @@ C:\Users\Idriss\source\repos\ConvertisseurCerebellis\obj\Debug\netcoreapp2.1\Con
 C:\Users\Idriss\source\repos\ConvertisseurCerebellis\obj\Debug\netcoreapp2.1\ConvertisseurCerebellis.AssemblyInfo.cs
 C:\Users\Idriss\source\repos\ConvertisseurCerebellis\obj\Debug\netcoreapp2.1\ConvertisseurCerebellis.dll
 C:\Users\Idriss\source\repos\ConvertisseurCerebellis\obj\Debug\netcoreapp2.1\ConvertisseurCerebellis.pdb
+C:\Users\benja\Documents\GitHub\ConvertisseurCerebellis\bin\Debug\netcoreapp2.1\ConvertisseurCerebellis.deps.json
+C:\Users\benja\Documents\GitHub\ConvertisseurCerebellis\bin\Debug\netcoreapp2.1\ConvertisseurCerebellis.runtimeconfig.json
+C:\Users\benja\Documents\GitHub\ConvertisseurCerebellis\bin\Debug\netcoreapp2.1\ConvertisseurCerebellis.runtimeconfig.dev.json
+C:\Users\benja\Documents\GitHub\ConvertisseurCerebellis\bin\Debug\netcoreapp2.1\ConvertisseurCerebellis.dll
+C:\Users\benja\Documents\GitHub\ConvertisseurCerebellis\bin\Debug\netcoreapp2.1\ConvertisseurCerebellis.pdb
+C:\Users\benja\Documents\GitHub\ConvertisseurCerebellis\obj\Debug\netcoreapp2.1\ConvertisseurCerebellis.csprojAssemblyReference.cache
+C:\Users\benja\Documents\GitHub\ConvertisseurCerebellis\obj\Debug\netcoreapp2.1\ConvertisseurCerebellis.AssemblyInfoInputs.cache
+C:\Users\benja\Documents\GitHub\ConvertisseurCerebellis\obj\Debug\netcoreapp2.1\ConvertisseurCerebellis.AssemblyInfo.cs
+C:\Users\benja\Documents\GitHub\ConvertisseurCerebellis\obj\Debug\netcoreapp2.1\ConvertisseurCerebellis.dll
+C:\Users\benja\Documents\GitHub\ConvertisseurCerebellis\obj\Debug\netcoreapp2.1\ConvertisseurCerebellis.pdb
